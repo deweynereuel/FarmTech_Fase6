@@ -18,7 +18,7 @@ Projeto da disciplina de Redes Neurais (PBL Fase 6), FIAP. Sistema de detecção
 
 | Entregas| Local |
 |---|---|
-| **Passo a passo completo, código executado, resultados e conclusões (Entregas 1 e 2)** | 👉 [`DeweyneReuel_rm573755_pbl_fase6.ipynb`](./DeweyneReuel_rm573755_pbl_fase6.ipynb) · [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IY_VyBb9cX4Oh0IEY4ZG5y5CJGfDbSWd?usp=drive_link) |
+| **Passo a passo completo, código executado, resultados e conclusões (Entregas 1 e 2)** | 👉 [`DeweyneReuel_rm573755_pbl_fase6.ipynb`](./DeweyneReuel_rm573755_pbl_fase6.ipynb) · [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IY_VyBb9cX4Oh0IEY4ZG5y5CJGfDbSWd) |
 | **Vídeo de demonstração** (até 5 min, YouTube não listado) | [Assistir](https://youtu.be/L8017RfiJs8) |
 | **Dataset** (80 imagens + rótulos, no Google Drive) | Pasta com acesso por link, enviado no PDF de entrega pelo portal da FIAP |
 | **Rótulos no formato YOLO** | [`labels/`](pbl_farmtech_fase6/Farmtech_YOLO/labels) |
