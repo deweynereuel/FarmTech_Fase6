@@ -4,21 +4,25 @@ Projeto da disciplina de Redes Neurais (PBL Fase 6), FIAP. Sistema de detecção
 
 ## 👥 Grupo Farm Tech
 
-| Integrante | RM |
-|---|---|
-| Deweyne Reuel | rm573755 |
-| Jeliel Cardoso | rm572665 |
-| Denis Paulo Dias da Silva | rm573278 |
+- **Jeliel Cardoso** — [LinkedIn](https://www.linkedin.com/in/jelielcardoso/)
+- **Denis Paulo Dias da Silva** — [LinkedIn](https://www.linkedin.com/in/denispaulodiassilva/)
+- **Deweyne Reuel** — [LinkedIn](https://www.linkedin.com/in/deweyne-reuel-0695522a8/)
+- **Matheus Nascimento** — [LinkedIn](https://www.linkedin.com/in/mathnascimento/)
 
+
+## 👥 Professores
+
+- **Tutor(a):** [Sabrina Otoni](https://www.linkedin.com/in/sabrina-otoni-22525519b/)
+- **Coordenador(a):** [André Godoi](https://www.linkedin.com/in/andregodoichiovato/)
 ## 🧭 Entregas do Projeto
 
 | Entregas| Local |
 |---|---|
-| **Passo a passo completo, código executado, resultados e conclusões (Entregas 1 e 2)** | 👉 [`DeweyneReuel_rm573755_pbl_fase6.ipynb`](./DeweyneReuel_rm573755_pbl_fase6.ipynb) · [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_NOTEBOOK_NO_COLAB) |
-| **Vídeo de demonstração** (até 5 min, YouTube não listado) | [Assistir](COLE_AQUI_O_LINK_DO_VIDEO) |
+| **Passo a passo completo, código executado, resultados e conclusões (Entregas 1 e 2)** | 👉 [`DeweyneReuel_rm573755_pbl_fase6.ipynb`](./DeweyneReuel_rm573755_pbl_fase6.ipynb) · [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IY_VyBb9cX4Oh0IEY4ZG5y5CJGfDbSWd?usp=drive_link) |
+| **Vídeo de demonstração** (até 5 min, YouTube não listado) | [Assistir](https://youtu.be/L8017RfiJs8) |
 | **Dataset** (80 imagens + rótulos, no Google Drive) | Pasta com acesso por link, enviado no PDF de entrega pelo portal da FIAP |
-| **Rótulos no formato YOLO** | [`labels/`](./labels) |
-| **Imagens usadas no treinamento** | [`images/`](./images) |
+| **Rótulos no formato YOLO** | [`labels/`](pbl_farmtech_fase6/Farmtech_YOLO/labels) |
+| **Imagens usadas no treinamento** | [`images/`](pbl_farmtech_fase6/Farmtech_YOLO/images) |
 
 ## 🎯 Contexto e proposta
 
