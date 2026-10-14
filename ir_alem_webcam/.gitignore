@@ -1,0 +1,7 @@
+# As evidências reais são geradas localmente. Mantenha no repositório apenas as selecionadas para a entrega.
+evidencias/*
+!evidencias/.gitkeep
+
+# Vídeos tendem a ser grandes; publique o vídeo não listado e insira o link no README principal.
+*.mp4
+*.avi

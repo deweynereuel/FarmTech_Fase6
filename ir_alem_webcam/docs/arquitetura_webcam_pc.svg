@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="530" viewBox="0 0 1400 530" role="img" aria-labelledby="title desc">
+  <title id="title">Arquitetura do Ir Além com iPhone, Iriun e webcam virtual</title>
+  <desc id="desc">Fluxo do iPhone por Wi-Fi ao Iriun no Windows, OpenCV, YOLOv5 customizado, tela e evidências.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f5fbf8"/><stop offset="1" stop-color="#eaf1ff"/></linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#456477"/></marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1400" height="530" fill="url(#bg)"/>
+  <text x="70" y="80" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#123247">Ir Além — Detecção em tempo real com iPhone + Iriun</text>
+  <text x="70" y="116" font-family="Arial, sans-serif" font-size="18" fill="#496574">Wi-Fi para webcam virtual no Windows • modelo YOLOv5 customizado para chair e bottle</text>
+  <g font-family="Arial, sans-serif" filter="url(#shadow)">
+    <rect x="70" y="194" width="210" height="190" rx="20" fill="#ffffff" stroke="#5e9bb0" stroke-width="2"/>
+    <circle cx="175" cy="255" r="38" fill="#d9eff3" stroke="#36829d" stroke-width="3"/>
+    <circle cx="175" cy="255" r="18" fill="#36829d"/><circle cx="186" cy="244" r="5" fill="#fff"/>
+    <path d="M125 319 h100 v32 h-100z" fill="#84c4cc"/><path d="M151 351 l-19 25 M199 351 l19 25" stroke="#36829d" stroke-width="7"/>
+    <text x="175" y="416" text-anchor="middle" font-size="20" font-weight="700" fill="#123247">1. iPhone + Iriun</text>
+    <text x="175" y="443" text-anchor="middle" font-size="15" fill="#496574">captura e envio Wi-Fi</text>
+    <rect x="360" y="194" width="210" height="190" rx="20" fill="#ffffff" stroke="#5e9bb0" stroke-width="2"/>
+    <rect x="408" y="230" width="114" height="78" rx="8" fill="#ddecff" stroke="#4a78ad" stroke-width="3"/>
+    <text x="465" y="276" text-anchor="middle" font-size="25" font-weight="700" fill="#315d93">OpenCV</text>
+    <text x="465" y="416" text-anchor="middle" font-size="20" font-weight="700" fill="#123247">2. Webcam virtual</text>
+    <text x="465" y="443" text-anchor="middle" font-size="15" fill="#496574">Iriun + OpenCV no Windows</text>
+    <rect x="650" y="194" width="210" height="190" rx="20" fill="#ffffff" stroke="#5e9bb0" stroke-width="2"/>
+    <path d="M700 312 l25-70 25 35 25-60 35 95z" fill="none" stroke="#e1772a" stroke-width="8"/>
+    <text x="755" y="335" text-anchor="middle" font-size="22" font-weight="700" fill="#c55a13">YOLOv5</text>
+    <text x="755" y="416" text-anchor="middle" font-size="20" font-weight="700" fill="#123247">3. best.pt customizado</text>
+    <text x="755" y="443" text-anchor="middle" font-size="15" fill="#496574">classe, caixa e confiança</text>
+    <rect x="940" y="194" width="210" height="190" rx="20" fill="#ffffff" stroke="#5e9bb0" stroke-width="2"/>
+    <rect x="979" y="223" width="132" height="90" rx="6" fill="#223848"/><rect x="992" y="236" width="106" height="64" fill="#e5f0e8"/>
+    <rect x="1010" y="253" width="45" height="30" fill="none" stroke="#f28728" stroke-width="3"/><text x="1013" y="250" font-size="11" fill="#e1772a">bottle 0.92</text>
+    <text x="1045" y="416" text-anchor="middle" font-size="20" font-weight="700" fill="#123247">4. Monitor ao vivo</text>
+    <text x="1045" y="443" text-anchor="middle" font-size="15" fill="#496574">caixas, confiança e FPS</text>
+    <rect x="1210" y="194" width="135" height="190" rx="20" fill="#ffffff" stroke="#5e9bb0" stroke-width="2"/>
+    <path d="M1245 230 h48 l17 17 v84 h-65z" fill="#eaf5ed" stroke="#4d9160" stroke-width="3"/><path d="M1293 230 v18 h17" fill="none" stroke="#4d9160" stroke-width="3"/>
+    <text x="1278" y="287" text-anchor="middle" font-size="18" font-weight="700" fill="#3b7950">S</text>
+    <text x="1278" y="416" text-anchor="middle" font-size="20" font-weight="700" fill="#123247">5. Evidências</text>
+    <text x="1278" y="443" text-anchor="middle" font-size="15" fill="#496574">JPG, JSON e CSV</text>
+  </g>
+  <g stroke="#456477" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M282 289 H351"/><path d="M572 289 H641"/><path d="M862 289 H931"/><path d="M1152 289 H1201"/>
+  </g>
+  <text x="316" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#496574">Wi-Fi</text>
+  <text x="1280" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#496574">pressionar S</text>
+  <text x="70" y="492" font-family="Arial, sans-serif" font-size="14" fill="#496574">Figura autoral: o Iriun transporta o vídeo via Wi-Fi e expõe a câmera do iPhone como dispositivo virtual no Windows.</text>
+</svg>

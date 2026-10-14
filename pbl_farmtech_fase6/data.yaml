@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Farmtech_YOLO
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['chair', 'bottle']
